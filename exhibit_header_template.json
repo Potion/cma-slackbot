@@ -1,14 +1,6 @@
 {
   "blocks": [
     {
-      "block_id": "header_intro",
-      "type": "section",
-      "text": {
-        "type": "mrkdwn",
-        "text": ":speech_balloon: Welcome to today's Exhibition:"
-      }
-    },
-    {
       "block_id": "header_title",
       "type": "section",
       "text": {
